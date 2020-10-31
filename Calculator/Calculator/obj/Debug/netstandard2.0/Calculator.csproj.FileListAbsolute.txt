@@ -1,0 +1,13 @@
+D:\xamarin projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+D:\xamarin projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+D:\xamarin projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+D:\xamarin projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+D:\xamarin projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb

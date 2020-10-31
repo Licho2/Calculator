@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator\\Calculator.csproj": {}
+    "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator\\Calculator.csproj": {
+    "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\mrako\\.nuget\\packages\\",
-        "outputPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator\\obj\\",
+        "outputPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

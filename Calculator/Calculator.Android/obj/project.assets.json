@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.Android\\Calculator.Android.csproj",
+      "projectUniqueName": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator.Android\\Calculator.Android.csproj",
       "projectName": "Calculator.Android",
-      "projectPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.Android\\Calculator.Android.csproj",
+      "projectPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator.Android\\Calculator.Android.csproj",
       "packagesPath": "C:\\Users\\mrako\\.nuget\\packages\\",
-      "outputPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.Android\\obj\\",
+      "outputPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1942,8 +1942,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator\\Calculator.csproj": {
-              "projectPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator\\Calculator.csproj"
+            "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.csproj": {
+              "projectPath": "D:\\xamarin projects\\Calculator\\Calculator\\Calculator\\Calculator.csproj"
             }
           }
         }
